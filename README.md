@@ -24,3 +24,27 @@ Website ini menampilkan informasi seputar produk kakao unggulan, manfaat, dan aj
 
 ## 📁 Struktur Folder
 
+kakao-nusantara/
+├── index.html
+├── style.css
+└── script.js (jika ada)
+
+## 📦 Cara Menjalankan Proyek
+
+1. Clone repo ini:
+   ```bash
+   git clone https://github.com/Irvansbase/kakao-nusantara
+Buka file index.html di browser favoritmu.
+
+Atau kamu bisa gunakan extension Live Server jika pakai VS Code.
+
+🤝 Kontribusi
+Ingin bantu? Silakan fork repo ini, buat perubahanmu, lalu ajukan Pull Request. Kita dukung produk lokal bareng-bareng!
+
+📞 Kontak
+📧 Email: kakao@nusantara.com
+📱 WhatsApp: +62 812-XXXX-XXXX
+🌐 Website: nusantarafarm.com (opsional)
+
+❤️ Lisensi
+Proyek ini menggunakan lisensi MIT.
