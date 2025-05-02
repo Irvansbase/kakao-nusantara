@@ -27,7 +27,7 @@ Website ini menampilkan informasi seputar produk kakao unggulan, manfaat, dan aj
 kakao-nusantara/
 ├── index.html
 ├── style.css
-└── script.js (jika ada)
+└── script.js
 
 ## 📦 Cara Menjalankan Proyek
 
@@ -42,9 +42,8 @@ Atau kamu bisa gunakan extension Live Server jika pakai VS Code.
 Ingin bantu? Silakan fork repo ini, buat perubahanmu, lalu ajukan Pull Request. Kita dukung produk lokal bareng-bareng!
 
 📞 Kontak
-📧 Email: kakao@nusantara.com
-📱 WhatsApp: +62 812-XXXX-XXXX
-🌐 Website: nusantarafarm.com (opsional)
+📧 Email: irvans2731@gmail.com
+📱 WhatsApp: +62 851-6122-5409
 
 ❤️ Lisensi
 Proyek ini menggunakan lisensi MIT.
